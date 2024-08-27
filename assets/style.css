@@ -8,8 +8,9 @@ footer,ul,h1{
     margin: 20px 0 20px 0;
     
 }
-.carrou{
-    margin: 20px 0 20px 0;
-    max-width: 400px;
-    max-height: 300px;
+
+.carousel-inner img {
+  max-height: 400px; /* Set your desired max height */
+  
+
 }
